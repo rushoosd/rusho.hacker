@@ -1,6 +1,6 @@
 # Hacker
 # wifi
-<!DOCTYPE>
+
 <html>
 <head>
 <title>Web developer</title>
@@ -117,5 +117,5 @@ python3 phoninfoga.py -v
 
 </h1>
   <input scr="" alt="image" width="300px" height="300px">
-</body>
-</html>
+
+
